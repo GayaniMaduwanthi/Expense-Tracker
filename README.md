@@ -29,6 +29,16 @@
 
 ---
 
+## 🚀 Getting Started & Live Demo
+
+You can run this project locally without any installation or build tools:
+
+1. Clone or download this repository.
+2. Open the **`index.html`** file in any modern web browser.
+3. Start managing transactions, exploring AI insights, and exporting financial reports!
+
+---
+
 🌐 **Live Demo:** 
 
 ## 💡 Author
