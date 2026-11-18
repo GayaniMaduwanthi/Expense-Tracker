@@ -39,7 +39,7 @@ You can run this project locally without any installation or build tools:
 
 ---
 
-🌐 **Live Demo:** 
+🌐 **Live Demo:** https://gayanimaduwanthi.github.io/Expense-Tracker/
 
 ## 💡 Author
 
